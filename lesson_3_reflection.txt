@@ -15,3 +15,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
   Any conflicts arising can be easily resoved and no internet connection is need to see the
   diff between the remote and the local at that point in time.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+  Easier to deal with conflicts. Way harder to work with other people.
